@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Super Tasks</title>
+    <link rel="stylesheet" href="estilo.css">
+     
+    
+    
+    <h1><span class="Titulo">Super Tasks</span></h1>
+    
+ 
+        
+     <h2><span class="SubTitulo">Minhas Tarefas</span></h2>
+    
+</head>
+
+<body>
+    
+    <ul >
+        <span class="Lista">
+            
+        <h3><span class="Categoria01">Estudar as Flex Box</span></h3>
+
+        <h3><span class="Categoria02"> <s> Estudar as Tags do HTML </s> </span></h3>
+
+        <h3><span class="Categoria03">Estudar o bausico de Javascript</span></h3>
+
+        <h3><span class="Categoria04">Estudar Javascript Avancado</span></h3>
+        
+        </span>
+        
+    </ul>
+
+    <h3><span class="Copy">Super Tasks © Copyright 2024 - Todos os direitos reservados</span></h3>
+    
+ 
+    
+    
+</body>
+
+</html>
